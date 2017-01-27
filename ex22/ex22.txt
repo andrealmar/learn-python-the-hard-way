@@ -1,0 +1,18 @@
+% = modulo operator
++ = sum
+- = subtraction
+* = multiply
+/ = divide
+
+print = print function
+return = return an operation to a function
+raw_input() = function that reads an input of a user
+read() = read file
+close() = close file
+write() = write in a file
+open() = open a file
+
+%d = placeholder for a number
+%s = placeholder for a string
+%r = placeholder for a RAW string
+%f = placeholder for float
